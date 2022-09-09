@@ -1,11 +1,11 @@
 <h1 align="center"> Reina y Caballo</h1>
 
-<h1>Repositorio:</h1>
+<h2>Repositorio:</h2>
 
 Este es el link del [repositorio](https://github.com/albabernal03/ajedrez2)
 ***
 
-<h1>¿De qué trata esta tarea?</h1>
+<h2>¿De qué trata esta tarea?</h2>
 
 En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los siguientes problemas:
 
@@ -13,5 +13,5 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 (2) Encontrar un algoritmo que calcule las posiblidades de colocar n reina sin que estas queden enfrentadas.
 
 ***
-<h1>Resolución (Con uso del pseudocódigo)</h1>
+<h2>Resolución (Con uso del pseudocódigo)</h2>
 
