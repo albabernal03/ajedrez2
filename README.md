@@ -16,3 +16,11 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 ***
 <h2>Resolución (Con uso del pseudocódigo)</h2>
 
+##Problema 1:##
+
+
+
+
+
+
+##Problema 2:##
