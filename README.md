@@ -1,1 +1,5 @@
-# ajedrez2
+<h1 align="center"> Reina y Caballo</h1>
+
+<h2>Repositorio:</h2>
+
+Este es el link del [repositorio]()
