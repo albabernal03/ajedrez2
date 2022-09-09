@@ -25,7 +25,8 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 <h2>Resolución (Con uso del pseudocódigo)</h2>
 
 ## Ejercicio 1:<a name="id1"></a>
-
+Para este ejercicio hemos desarrollado la siguiente fórmula matemática que nos permite resolver el ejercicio: 
+Partimos del caso _1=1 donde el número de posibilidades válidas es 20 y para n >1 se cumple que [caso_n = 2*caso_(n-1)+(2**(n-2))*6]
 
 
 ## Ejercicio 2:<a name="id2"></a>
