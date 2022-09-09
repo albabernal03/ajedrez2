@@ -39,4 +39,16 @@ Entrada:
 i, j: entero --> COMPARABLE
 k, l: entero --> COMPARABLE
 
+Precondición:
+
+i=!k #esta condición impone que la fila deben ser distintas
+j=! #esta condicion impone que las columnas han de ser distintas
+i-j =! k-l #si se cumple esta condición sabemos que las fichas no pueden esatr en la misma diagonal (diagonal descendente)
+i+j =! k+l  #si se cumple esta condición sabemos que las fichas no pueden esatr en la misma diagonal (diagonal ascendente)
+
+Realización:
+
+Debe comprobarse que las precundiciones establecidas se cumplan
+
+
 ```
