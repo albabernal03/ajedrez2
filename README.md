@@ -16,7 +16,8 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 ***
 
 
-# Indice
+<h2>Indice</h2>
+
 1. [Ejercicio 1](#id1)
 2. [Ejercicio 2](#id2)
 
