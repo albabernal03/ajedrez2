@@ -30,4 +30,9 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 
 ## Ejercicio 2:<a name="id2"></a>
 
+```
 Algoritmo posicion reinas
+
+Entrada
+
+```
