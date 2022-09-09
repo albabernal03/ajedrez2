@@ -14,13 +14,19 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 (2) Encontrar un algoritmo que calcule las posiblidades de colocar n reina sin que estas queden enfrentadas.
 
 ***
+
+
+# Indice
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+
+***
 <h2>Resolución (Con uso del pseudocódigo)</h2>
 
-##Problema 1:##
+## Ejercicio 1:<a name="id1"></a>
 
 
 
+## Ejercicio 2:<a name="id2"></a>
 
 
-
-##Problema 2:##
