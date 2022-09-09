@@ -33,6 +33,9 @@ En la siguiente tarea, realizaremos un algoritmo para encontrar solución a los 
 ```
 Algoritmo posicion reinas
 
-Entrada
+Entrada:
+
+i, j: entero --> COMPARABLE
+k, l: entero --> COMPARABLE
 
 ```
