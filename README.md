@@ -43,8 +43,8 @@ Precondición:
 
 i=!k #esta condición impone que la fila deben ser distintas
 j=!l #esta condicion impone que las columnas han de ser distintas
-i-j =! k-l #si se cumple esta condición sabemos que las fichas no pueden esatr en la misma diagonal (diagonal descendente)
-i+j =! k+l  #si se cumple esta condición sabemos que las fichas no pueden esatr en la misma diagonal (diagonal ascendente)
+i-j =! k-l #si se cumple esta condición sabemos que las fichas no pueden estar en la misma diagonal (diagonal descendente)
+i+j =! k+l  #si se cumple esta condición sabemos que las fichas no pueden estar en la misma diagonal (diagonal ascendente)
 
 Realización:
 
