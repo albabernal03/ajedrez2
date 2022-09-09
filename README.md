@@ -36,8 +36,8 @@ Algoritmo posicion reinas
 
 Entrada:
 
-i, j: entero --> COMPARABLE
-k, l: entero --> COMPARABLE
+i, j: entero --> COMPARABLE #fila y columna
+k, l: entero --> COMPARABLE #fila y columna
 
 Precondición:
 
